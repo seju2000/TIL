@@ -1,3 +1,4 @@
-hello, it's a test file.
-
-
+int main(void) {
+  printf("hello");
+  return 0;
+}
