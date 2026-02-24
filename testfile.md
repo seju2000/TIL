@@ -1,6 +1,4 @@
 hello, this is a test file
 
-picture
-AI 기술을 활용한 콘텐츠인 경우, 이용자가 알 수 있도록 AI 활용 표시를 설정해 주세요.
 AI 활용 설정
-사진 설명을 입력하세요.
+사진 설명을 입력하세요.![repo-create-global-nav-update](https://github.com/user-attachments/assets/7ab25822-0f4f-48ab-bd8b-d8f6f8b9a6d2)
